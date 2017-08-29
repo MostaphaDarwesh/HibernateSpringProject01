@@ -14,5 +14,5 @@
    		<property name="rollNo" value="101"></property>
    		<property name="name" value="Darwesh"></property>
    </bean>
-
+	<context:component-scan base-package="com.arpu.plus"></context:component-scan>
 </beans>

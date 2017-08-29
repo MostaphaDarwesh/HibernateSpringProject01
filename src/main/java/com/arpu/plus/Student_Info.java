@@ -8,7 +8,7 @@ import javax.persistence.Table;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-@Component
+
 @Entity
 @Table(name="STUDENT_IFNORMATION")
 public class Student_Info {
